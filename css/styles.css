@@ -1,12 +1,29 @@
 h2{
   text-align: center;
-  color:blue;
+  color:black;
 }
 .column {
-  width: 500px;
+  width: 350px;
   float: left;
+  padding: 50px;
+  border: solid black;
+  border-width: 5px;
+
+}
+.box{
+  width: 100%;
+  padding: 50px;
+  border: solid black;
+  border-width: 30px;
+  background-color: teal;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
 img {
-  width: 300px;
-  height: 400px;
+ width: 300px;
+ height: 400px;
+
+}
+.pets{
+  color:purple;
 }
