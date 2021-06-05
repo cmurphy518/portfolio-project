@@ -13,8 +13,8 @@ h2{
   float: left;
   padding: 50px;
   border: solid black;
-  border-width: 1px;
-  background-color: teal;
+  border-width: 10px;
+  background-color: lightgrey;
 
 }
 .box{
